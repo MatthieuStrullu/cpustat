@@ -25,7 +25,7 @@ import (
 	"strings"
 	"time"
 
-	lib "github.com/uber-common/cpustat/lib"
+	lib "github.com/uber-archive/cpustat/lib"
 )
 
 func formatMem(num uint64) string {

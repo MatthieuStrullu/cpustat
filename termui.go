@@ -27,7 +27,7 @@ import (
 	"strconv"
 	"strings"
 
-	lib "github.com/uber-common/cpustat/lib"
+	lib "github.com/uber-archive/cpustat/lib"
 	"github.com/uber-common/termui"
 )
 

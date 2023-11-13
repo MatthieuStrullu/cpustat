@@ -39,7 +39,7 @@ import (
 	"net/http"
 	_ "net/http/pprof"
 
-	"github.com/uber-common/cpustat/lib"
+	"github.com/uber-archive/cpustat/lib"
 )
 
 var infoMap cpustat.ProcInfoMap

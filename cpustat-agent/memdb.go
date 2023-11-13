@@ -3,7 +3,7 @@ package main
 import (
 	"sync"
 
-	"github.com/uber-common/cpustat/lib"
+	"github.com/uber-archive/cpustat/lib"
 )
 
 type dbEntry struct {

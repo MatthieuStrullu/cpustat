@@ -1,6 +1,6 @@
 # cpustat - high(er) frequency stats sampling
 
-[![Join the chat at https://gitter.im/uber-common/cpustat](https://badges.gitter.im/uber-common/cpustat.svg)](https://gitter.im/uber-common/cpustat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/uber-archive/cpustat](https://badges.gitter.im/uber-archive/cpustat.svg)](https://gitter.im/uber-archive/cpustat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 (This project is deprecated and not maintained.)
 
@@ -30,7 +30,7 @@ Here are examples of both modes observing the same workload:
 To install the latest version of `cpustat` and all of its dependencies, try this:
 
 ```
-go get github.com/uber-common/cpustat
+go get github.com/uber-archive/cpustat
 ```
 
 If you have `glide`, you can use `glide install` to get consistent dependencies.

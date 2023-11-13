@@ -31,7 +31,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/uber-common/cpustat/lib"
+	"github.com/uber-archive/cpustat/lib"
 	"github.com/uber/tchannel-go"
 	"github.com/uber/tchannel-go/raw"
 	"golang.org/x/net/context"

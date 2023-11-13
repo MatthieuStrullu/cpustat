@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/uber-common/cpustat/lib"
+	"github.com/uber-archive/cpustat/lib"
 )
 
 type pidList []int

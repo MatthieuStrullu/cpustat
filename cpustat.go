@@ -39,7 +39,7 @@ import (
 	"sort"
 	"time"
 
-	lib "github.com/uber-common/cpustat/lib"
+	lib "github.com/uber-archive/cpustat/lib"
 )
 
 func checkPrivs() {
