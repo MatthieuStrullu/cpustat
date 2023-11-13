@@ -1,9 +1,9 @@
-package: github.com/uber-common/cpustat
+package: github.com/uber-archive/cpustat
 os:
   - linux
 import:
 - package: github.com/codahale/hdrhistogram
-- package: github.com/uber-common/termui
+- package: github.com/uber-archive/termui
 - package: github.com/uber/tchannel-go
   subpackages:
   - raw
