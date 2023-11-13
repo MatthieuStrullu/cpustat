@@ -7,7 +7,7 @@ imports:
   version: d6bea18f789704b5f83375793155289da36a3c7f
 - name: github.com/nsf/termbox-go
   version: 362329b0aa6447eadd52edd8d660ec1dff470295
-- name: github.com/uber-common/termui
+- name: github.com/uber-archive/termui
   version: 5eb574feb7a303b1df0dc361844a56eb04fc8f55
 - name: github.com/uber/tchannel-go
   version: 3e3e53962cc103863e644ac84dcda5169ead0467

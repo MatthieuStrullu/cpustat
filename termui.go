@@ -28,7 +28,7 @@ import (
 	"strings"
 
 	lib "github.com/uber-archive/cpustat/lib"
-	"github.com/uber-common/termui"
+	"github.com/uber-archive/termui"
 )
 
 const chartBackingSize = 1024
